@@ -67,16 +67,29 @@ The production-ready files will be in the `build` directory.
 ## Folder Structure
 
 ```plaintext
-src/
-├── components/        # Reusable React components
-│   ├── Table.js       # Displays the inventory table
-│   ├── AddItemForm.js # Form for adding new items
-│   ├── EditItemModal.js # Modal for editing items
-├── pages/             # Page components
-│   └── InventoryPage.js # Main page with inventory management functionality
-├── utils/             # Utility functions (e.g., sorting, filtering)
-├── App.js             # Main app component
-├── index.js           # Entry point
+inventory-management/
+├── node_modules/        # Installed dependencies
+├── public/              # Public assets
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src/                 # Source files
+│   ├── App.css          # Styles for the app
+│   ├── App.js           # Main app component
+│   ├── App.test.js      # Test file for App.js
+│   ├── index.css        # Global styles
+│   ├── index.js         # Entry point
+│   ├── InventoryManagement.js # Core inventory management functionality
+│   ├── logo.svg         # App logo
+│   ├── reportWebVitals.js # Performance measuring
+│   └── setupTests.js    # Setup for testing
+├── .gitignore           # Files to ignore in Git
+├── package-lock.json    # Dependency lockfile
+├── package.json         # Project metadata and dependencies
+└── README.md            # Documentation
 ```
 
 ## Usage
