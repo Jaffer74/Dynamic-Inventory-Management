@@ -1,0 +1,12 @@
+Customer Segmentation Analysis Results
+====================================
+
+Number of clusters: 3
+Davies-Bouldin Index: 0.4581
+
+Cluster Characteristics:
+         total_spend  transaction_count  avg_quantity  days_since_signup
+Cluster                                                                 
+0              576.3                1.0          1.92             143.92
+1                0.0                0.0          0.00             -89.75
+2                0.0                0.0          0.00             491.50

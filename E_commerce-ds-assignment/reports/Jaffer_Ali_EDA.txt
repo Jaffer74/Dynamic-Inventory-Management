@@ -1,0 +1,13 @@
+E-commerce Business Analysis Insights
+===================================
+
+1. Customer Base Analysis: Our platform has 200 customers across different regions, with South America being our strongest market.
+
+2. Product Portfolio: We offer 100 products across 4 categories, with an average price of $267.55.
+
+3. Revenue Performance: Total revenue generated is $6,915.64, with an average order value of $576.30.
+
+4. Customer Behavior: The most frequent order quantity is 1 items, indicating typical customer purchase patterns.
+
+5. Market Opportunity: The Asia region shows potential for growth with targeted marketing campaigns.
+
