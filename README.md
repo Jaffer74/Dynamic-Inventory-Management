@@ -116,13 +116,14 @@ inventory-management/
 
 ## Screenshots
 
+
 ### Inventory Table
 
-Add a screenshot of the inventory table here.
+![Inventory Table](static/ev_dashboard.png)
 
-### Add Item Form
+### Item Form
 
-Add a screenshot of the add item form here.
+![Item Form](static/ev_dashboard.png)
 
 ## Technologies Used
 
