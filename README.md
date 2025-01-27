@@ -11,8 +11,6 @@ A simple, feature-rich inventory management app built using **React.js**. This a
 5. **Sort by Quantity**: Sort items in ascending or descending order of quantity.
 6. **Highlight Low-Stock Items**: Automatically highlight items with a quantity below a specified threshold (e.g., 10).
 
-## Live Demo
-Include a link to the deployed version of the app (if applicable).
 
 ## Getting Started
 
