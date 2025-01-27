@@ -119,11 +119,11 @@ inventory-management/
 
 ### Inventory Table
 
-![Inventory Table](static/ev_dashboard.png)
+![Inventory Table](public/pic.png)
 
 ### Item Form
 
-![Item Form](static/ev_dashboard.png)
+![Item Form](public/pic1.png)
 
 ## Technologies Used
 
